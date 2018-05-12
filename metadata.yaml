@@ -1,4 +1,8 @@
 _repo: Notre-Coeur-or-A-Woman-s-Pastime-A-Novel_50477
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50477-h/images/cover.jpg
 creator:
   author:
     agent_name: Maupassant, Guy de
@@ -11,6 +15,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
     - http://en.wikipedia.org/wiki/Guy_de_Maupassant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50477#Notre-Coeur-or-A-Woman-s-Pastime-A-Novel
 gutenberg_issued: '2015-11-18'
 gutenberg_type: Text
 identifiers:
